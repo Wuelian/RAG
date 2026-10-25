@@ -1,0 +1,27 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Variables de entorno (clave de la API de Gemini)
+.env
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Embeddings guardados (se pueden regenerar ejecutando el programa)
+*.npy
+*.npz
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Documentos de prueba (descomenta si no quieres subir los PDFs)
+# pdfs/
