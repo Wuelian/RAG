@@ -1,2 +1,8 @@
-pip install llama-index-core google-genai pypdf numpy python-dotenv
-pip install ollama
+llama-index-core
+llama-index-readers-file
+google-genai
+pypdf
+numpy
+python-dotenv
+ollama
+ 
