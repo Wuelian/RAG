@@ -5,4 +5,5 @@ pypdf
 numpy
 python-dotenv
 ollama
- 
+chromadb
+truststore
